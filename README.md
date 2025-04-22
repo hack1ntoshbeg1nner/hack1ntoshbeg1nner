@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hack1ntoshbeg1nner
 - 👀 I’m interested in ... Gold Golld Gollld!
-- 🌱 I’m currently learning ... Python, Java, JScript (JavaScript in dumber)
+- 🌱 I’m currently learning ... Python, Java, JavaScript, SQL, HTML, PHP and JScript (JavaScript in dumber)
 - 💞️ I’m looking to collaborate on ... anything that uses above languages
 - 📫 How to reach me ... https://steamcommunity.com/profiles/76561199598290403
 - 😄 Pronouns: ...    male
